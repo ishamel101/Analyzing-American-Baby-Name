@@ -1,2 +1,1 @@
-*.csv filter=lfs diff=lfs merge=lfs -text
 C:/Users/ismai/Desktop/my[[:space:]]work[[:space:]]Project/SQL/2[[:space:]]Analyzing[[:space:]]American[[:space:]]Baby[[:space:]]Name filter=lfs diff=lfs merge=lfs -text
